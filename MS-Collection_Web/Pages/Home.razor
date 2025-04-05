@@ -1,0 +1,163 @@
+﻿@page "/"
+@using Microsoft.AspNetCore.Components.Routing
+
+<PageTitle>Home</PageTitle>
+
+<style>
+    .logo-text {
+        font-weight: bold;
+        font-size: 2rem;
+        color: #3a2e2c;
+    }
+
+    .search-container {
+        position: relative;
+        width: 50%;
+        min-width: 250px;
+    }
+
+    .search-bar {
+        width: 100%;
+        border-radius: 50px;
+        border: 2px solid #c19d87;
+        padding: 10px 50px 10px 20px;
+        font-size: 1.1rem;
+        color: #6c5a53;
+    }
+
+    .search-btn {
+        position: absolute;
+        top: 50%;
+        right: 15px;
+        transform: translateY(-50%);
+        border: none;
+        background-color: transparent;
+        color: #c19d87;
+        font-size: 1.4rem;
+        cursor: pointer;
+    }
+
+    .main-banner {
+        position: relative;
+        text-align: center;
+        color: white;
+    }
+
+        .main-banner img {
+            width: 100%;
+            height: auto;
+            max-height: 400px;
+            object-fit: cover;
+        }
+
+    .banner-content {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: white;
+        width: 100%;
+    }
+
+    .title-highlight {
+        font-size: 2.5rem;
+        font-weight: bold;
+    }
+
+    .section-title {
+        text-align: center;
+        margin-top: 2rem;
+        font-size: 2rem;
+        color: #3a2e2c;
+    }
+
+    @@media (max-width: 576px) {
+        .search-container
+
+    {
+        width: 80%;
+    }
+
+    .search-bar {
+        padding: 10px 45px 10px 15px;
+        font-size: 1rem;
+    }
+
+    .search-btn {
+        right: 10px;
+        font-size: 1.2rem;
+    }
+
+    }
+
+    .card-title {
+        color: #3a2e2c;
+        font-weight: bold;
+    }
+
+    .card-text {
+        color: #6c5a53;
+        font-size: 0.9rem;
+    }
+
+    .btn {
+        border-radius: 20px;
+    }
+
+</style>
+
+<!-- BANNER -->
+<div class="main-banner">
+    <img src="fondobusqueda.jpg" alt="Banner" />
+    <div class="banner-content">
+        <img src="Logo.png" alt="Logo" class="mb-3" style="max-width: 80px;" />
+        <div class="title-highlight">MS Joyería y relojería</div>
+
+        <!-- Buscador -->
+        <div class="d-flex justify-content-center mt-4">
+            <div class="search-container">
+                <input type="text" class="form-control search-bar" placeholder="Buscar productos..." />
+                <button class="search-btn">
+                    <i class="bi bi-search"></i>
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- NUEVA COLECCIÓN -->
+<section class="my-5">
+    <h2 class="section-title">Nueva Colección</h2>
+    <!-- Aquí puedes poner tarjetas de productos -->
+    <div class="container">
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-4">
+            @for (int i = 0; i < 8; i++)
+            {
+                <div class="col">
+                    <div class="card h-100 shadow-sm">
+                        <img src="producto@(i + 1).jpg" class="card-img-top" alt="Producto @(i + 1)">
+                        <div class="card-body d-flex flex-column">
+                            <h5 class="card-title text-center">Argolla de plata</h5>
+                            <p class="card-text">
+                                <strong>Categoría:</strong> Pulseras<br />
+                                <strong>Código:</strong> 7389HGPO83Y
+                            </p>
+                            <div class="mt-auto">
+                                <div class="d-flex justify-content-between align-items-center mb-2">
+                                    <span class="fw-bold">$35.00</span>
+                                </div>
+                                <div class="d-flex justify-content-between">
+                                    <button class="btn btn-outline-secondary btn-sm w-50 me-1">Ver detalles</button>
+                                    <button class="btn btn-dark btn-sm w-50">Agregar al carrito</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+
+</section>
+
+
+

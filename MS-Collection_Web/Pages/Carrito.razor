@@ -1,0 +1,159 @@
+﻿@page "/Carrito"
+@inject NavigationManager NavigationManager
+
+<PageTitle>Carrito de Compras</PageTitle>
+
+<style>
+    /* Contenedor principal del carrito */
+    .cart-container {
+        max-width: 80%;
+        margin: 2rem auto;
+        background-color: #f8f6f5;
+        padding: 2rem;
+        border: 1px solid #e9cfc5;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+
+    .cart-header {
+        color: #3a2e2c;
+        font-weight: bold;
+        font-size: 1.8rem;
+        margin-bottom: 1.5rem;
+        text-align: center;
+    }
+
+    .cart-item {
+        border-bottom: 1px solid #e9cfc5;
+        padding: 1rem 0;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+        .cart-item:last-child {
+            border-bottom: none;
+        }
+
+    .item-info {
+        color: #3a2e2c;
+    }
+
+        .item-info h5 {
+            margin: 0;
+            font-weight: bold;
+        }
+
+        .item-info p {
+            margin: 0.25rem 0 0;
+            font-size: 0.95rem;
+        }
+
+    .item-price {
+        color: #c19d87;
+        font-weight: bold;
+        margin-right: 1rem;
+    }
+
+    .cancel-btn {
+        background-color: transparent;
+        border: 1px solid #c19d87;
+        color: #c19d87;
+        border-radius: 5px;
+        padding: 0.25rem 0.75rem;
+        font-size: 0.9rem;
+        transition: background-color 0.3s, color 0.3s;
+    }
+
+        .cancel-btn:hover {
+            background-color: #c19d87;
+            color: #fff;
+        }
+
+    .total-container {
+        text-align: right;
+        font-size: 1.5rem;
+        font-weight: bold;
+        color: #3a2e2c;
+        margin-top: 1.5rem;
+    }
+
+    .payment-btn {
+        background-color: #c19d87;
+        border: none;
+        color: white;
+        padding: 0.75rem 1.5rem;
+        font-size: 1.2rem;
+        border-radius: 5px;
+        cursor: pointer;
+        display: block;
+        margin: 2rem auto 0 auto;
+        transition: background-color 0.3s;
+    }
+
+        .payment-btn:hover {
+            background-color: #b08a76;
+        }
+</style>
+
+<div class="cart-container">
+    <div class="cart-header">
+        Artículos de Pedido
+    </div>
+
+    @if (Productos?.Count == 0)
+    {
+        <p class="text-center">No hay productos en el carrito.</p>
+    }
+    else
+    {
+        @foreach (var producto in Productos)
+        {
+            <div class="cart-item">
+                <div class="item-info">
+                    <h5>@producto.Nombre</h5>
+                    <p>Cantidad: @producto.Cantidad</p>
+                </div>
+                <div class="d-flex align-items-center">
+                    <div class="item-price me-3">$@producto.Precio.ToString("F2")</div>
+                    <button class="cancel-btn" @onclick="() => CancelarProducto(producto)">Cancelar</button>
+                </div>
+            </div>
+        }
+    }
+
+    <div class="total-container">
+        Total: $@Total.ToString("F2")
+    </div>
+    <button class="payment-btn" @onclick="RealizarPago">Realizar Pago</button>
+</div>
+
+@code {
+    public class Producto
+    {
+        public string Nombre { get; set; }
+        public int Cantidad { get; set; }
+        public decimal Precio { get; set; }
+    }
+
+    // Lista de productos en el carrito (puedes reemplazarla por datos reales)
+    private List<Producto> Productos = new List<Producto>
+    {
+        new Producto { Nombre = "Argolla de Plata", Cantidad = 1, Precio = 35.00m },
+        new Producto { Nombre = "Pulsera de Oro", Cantidad = 2, Precio = 45.00m }
+    };
+
+    private decimal Total => Productos.Sum(p => p.Precio * p.Cantidad);
+
+    private void CancelarProducto(Producto producto)
+    {
+        Productos.Remove(producto);
+    }
+
+    private void RealizarPago()
+    {
+        // Aquí implementas la lógica de pago o navegas a la página de pago
+        NavigationManager.NavigateTo("/pago");
+    }
+}
+

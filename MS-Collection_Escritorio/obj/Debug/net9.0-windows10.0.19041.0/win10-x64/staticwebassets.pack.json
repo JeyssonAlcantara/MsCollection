@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Escritorio\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\MS-Collection_Escritorio.styles.css",
+      "PackagePath": "staticwebassets\\MS-Collection_Escritorio.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Escritorio\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Escritorio\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Escritorio\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Escritorio\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.MS-Collection_Escritorio.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.MS-Collection_Escritorio.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.build.MS-Collection_Escritorio.props",
+      "PackagePath": "build\\MS-Collection_Escritorio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildMultiTargeting.MS-Collection_Escritorio.props",
+      "PackagePath": "buildMultiTargeting\\MS-Collection_Escritorio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildTransitive.MS-Collection_Escritorio.props",
+      "PackagePath": "buildTransitive\\MS-Collection_Escritorio.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

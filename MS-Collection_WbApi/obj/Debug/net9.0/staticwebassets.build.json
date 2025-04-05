@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "xaqRfnBI7Qb3XBN13DFuCFSwp4165ZYXXFcFjnMR3+E=",
+  "Source": "MS-Collection_WbApi",
+  "BasePath": "_content/MS-Collection_WbApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
