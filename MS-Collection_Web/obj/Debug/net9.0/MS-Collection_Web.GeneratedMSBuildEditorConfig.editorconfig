@@ -32,6 +32,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNlcmNhRGUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Admin/OneDrive/Desktop/Api/MS-Collection_Web/Pages/CambiarContraseña.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FtYmlhckNvbnRyYXNlw7FhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Admin/OneDrive/Desktop/Api/MS-Collection_Web/Pages/Carrito.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2Fycml0by5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -40,20 +44,36 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0YWxvZ28ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/OneDrive/Desktop/Api/MS-Collection_Web/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+[C:/Users/Admin/OneDrive/Desktop/Api/MS-Collection_Web/Pages/Crearcuenta.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXJjdWVudGEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/OneDrive/Desktop/Api/MS-Collection_Web/Pages/Detalle.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV0YWxsZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/OneDrive/Desktop/Api/MS-Collection_Web/Pages/EditarPerfil.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdGFyUGVyZmlsLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Admin/OneDrive/Desktop/Api/MS-Collection_Web/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Admin/OneDrive/Desktop/Api/MS-Collection_Web/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/OneDrive/Desktop/Api/MS-Collection_Web/Pages/Perfil.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVyZmlsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Admin/OneDrive/Desktop/Api/MS-Collection_Web/Pages/Politicas.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9saXRpY2FzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/OneDrive/Desktop/Api/MS-Collection_Web/Pages/Weather.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
+[C:/Users/Admin/OneDrive/Desktop/Api/MS-Collection_Web/Pages/RecuperarContraseña.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVjdXBlcmFyQ29udHJhc2XDsWEucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Admin/OneDrive/Desktop/Api/MS-Collection_Web/_Imports.razor]

@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Escritorio\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
       "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Escritorio\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },

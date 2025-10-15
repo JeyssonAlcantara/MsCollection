@@ -1,0 +1,169 @@
+﻿@page "/producto-detalle"
+<PageTitle>Detalle del Producto</PageTitle>
+
+<style>
+    .producto-detalle {
+        max-width: 1000px;
+        margin: 2rem auto;
+        padding: 2rem;
+        border-radius: 20px;
+        background-color: #f9f6f4;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        display: flex;
+        flex-direction: row;
+        gap: 2rem;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+    }
+
+    .producto-imagen {
+        flex: 1;
+        text-align: center;
+    }
+
+        .producto-imagen img {
+            max-width: 100%;
+            border-radius: 10px;
+        }
+
+        .producto-imagen .precio {
+            display: inline-block;
+            margin-top: 1rem;
+            background-color: #d9cfc9;
+            color: #5a2e25;
+            padding: 0.4rem 1rem;
+            border-radius: 20px;
+            font-weight: bold;
+        }
+
+    .producto-info {
+        flex: 1;
+    }
+
+        .producto-info h1 {
+            font-size: 1.8rem;
+            color: #38231b;
+            margin-bottom: 1.5rem;
+        }
+
+        .producto-info .meta {
+            margin-bottom: 1.5rem;
+        }
+
+            .producto-info .meta p {
+                margin: 0.3rem 0;
+                font-size: 0.95rem;
+            }
+
+                .producto-info .meta p strong {
+                    color: #1a1a1a;
+                }
+
+    .adicional {
+        margin-bottom: 1.5rem;
+    }
+
+        .adicional h3 {
+            font-size: 1.1rem;
+            margin-bottom: 0.8rem;
+            color: #1f1f1f;
+        }
+
+        .adicional p {
+            font-size: 0.95rem;
+            margin: 0.3rem 0;
+        }
+
+            .adicional p strong {
+                color: #1a1a1a;
+            }
+
+    .cantidad-control {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        margin-top: 1rem;
+    }
+
+        .cantidad-control button {
+            background-color: white;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            width: 30px;
+            height: 30px;
+            font-weight: bold;
+            color: #5a2e25;
+            cursor: pointer;
+        }
+
+        .cantidad-control span {
+            padding: 0 0.5rem;
+            font-weight: bold;
+            font-size: 1rem;
+        }
+
+    .btn-add {
+        background-color: #f0bda7;
+        border: none;
+        color: white;
+        font-weight: bold;
+        padding: 0.6rem 1.5rem;
+        border-radius: 25px;
+        font-size: 1rem;
+        display: inline-flex;
+        align-items: center;
+        gap: 0.4rem;
+        margin-top: 1rem;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+        .btn-add:hover {
+            background-color: #e1a892;
+        }
+
+    @@media (max-width: 768px) {
+        .producto-detalle
+
+    {
+        flex-direction: column;
+    }
+
+    }
+</style>
+
+<div class="producto-detalle">
+    <!-- Imagen y metadatos -->
+    <div class="producto-imagen">
+        <img src="images/argolla.jpg" alt="Argolla de plata" />
+        <div class="meta">
+            <p><strong>Categoría:</strong> Cadenas</p>
+            <p><strong>Código:</strong> 7389HGP083Y</p>
+        </div>
+        <div class="precio">$35.00</div>
+    </div>
+
+    <!-- Detalles y acciones -->
+    <div class="producto-info">
+        <h1>Argolla de plata</h1>
+
+        <div class="adicional">
+            <h3>Información adicional <i class="bi bi-chevron-down"></i></h3>
+            <p><strong>Descripción:</strong> Aretes Emperlados</p>
+            <p><strong>Color:</strong> Plateado</p>
+            <p><strong>Material:</strong> Plata</p>
+            <p><strong>Peso:</strong> 0,5 gramos</p>
+            <p><strong>Estado:</strong> Disponible</p>
+            <p><strong>Cantidad disponible:</strong> 3</p>
+        </div>
+
+        <div class="cantidad-control">
+            <button>-</button>
+            <span>1</span>
+            <button>+</button>
+        </div>
+
+        <button class="btn-add">
+            <i class="bi bi-bag-fill"></i> add
+        </button>
+    </div>
+</div>

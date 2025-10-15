@@ -1,0 +1,178 @@
+﻿@page "/crearcuenta"
+<PageTitle>Crear Cuenta</PageTitle>
+
+<style>
+    .crear-cuenta-container {
+        background: linear-gradient(to bottom, #c59180, #f4ebe7);
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 2rem;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .form-box {
+        width: 100%;
+        max-width: 500px; /* Menor ancho en escritorio */
+        background-color: transparent;
+        border-radius: 20px;
+        overflow: hidden;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    }
+
+    .header-section {
+        background-color: #c59180;
+        padding: 3rem 2rem;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+    }
+
+        .header-section h2 {
+            margin: 0;
+            color: white;
+            font-size: 2rem;
+            font-weight: 300;
+        }
+
+            .header-section h2 strong {
+                display: block;
+                font-weight: 700;
+            }
+
+    .logo-img {
+        width: 100px;
+        height: 100px;
+        background-color: transparent;
+        border-radius: 10px;
+        padding: 0.5rem;
+    }
+
+    .input-section {
+        background-color: transparent;
+        padding: 3rem 2rem;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+    }
+
+    .custom-input {
+        background-color: transparent; /* ¡Ahora es transparente! */
+        border-radius: 30px;
+        border: 1px solid #6b6b6b;
+        padding-left: 2.5rem;
+        height: 45px;
+        font-size: 0.95rem;
+        margin-bottom: 1.2rem;
+        color: black;
+        width: 100%;
+    }
+
+        .custom-input::placeholder {
+            color: #6b6b6b;
+        }
+
+    .icon-left {
+        position: absolute;
+        left: 15px;
+        top: 50%;
+        transform: translateY(-50%);
+        color: #6b6b6b;
+    }
+
+    .input-group-custom {
+        position: relative;
+        margin-bottom: 1.2rem;
+    }
+
+    .submit-btn {
+        background-color: #c59180;
+        color: white;
+        border: none;
+        border-radius: 30px;
+        height: 45px;
+        font-size: 1rem;
+        font-weight: bold;
+        width: 100%;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+        .submit-btn:hover {
+            background-color: #a26c5e;
+        }
+
+    /* Responsive para móviles */
+    @@media (max-width: 768px) {
+        .form-box
+
+    {
+        max-width: 100%; /* Que ocupe el ancho completo en móviles */
+    }
+
+    .input-section {
+        padding: 2rem 1.2rem;
+        
+    }
+
+    .header-section {
+        flex-direction: column;
+        text-align: center;
+        gap: 1rem;
+    }
+
+    .logo-img {
+        width: 80px;
+        height: 80px;
+    }
+
+    }
+</style>
+
+<div class="crear-cuenta-container">
+    <div class="form-box">
+        <!-- Encabezado -->
+        <div class="header-section">
+            <div>
+                <h2>Vamos<br /><strong>Crea tu Cuenta!</strong></h2>
+            </div>
+            <img src="logo.png" alt="Logo" class="logo-img" />
+        </div>
+
+        <!-- Inputs -->
+        <div class="input-section">
+            <div class="input-group-custom">
+                <i class="bi bi-person-vcard icon-left"></i>
+                <input type="text" class="form-control custom-input" placeholder="Cédula" />
+            </div>
+            <div class="input-group-custom">
+                <i class="bi bi-person icon-left"></i>
+                <input type="text" class="form-control custom-input" placeholder="Nombre" />
+            </div>
+            <div class="input-group-custom">
+                <i class="bi bi-person icon-left"></i>
+                <input type="text" class="form-control custom-input" placeholder="Apellido" />
+            </div>
+            <div class="input-group-custom">
+                <i class="bi bi-person-circle icon-left"></i>
+                <input type="text" class="form-control custom-input" placeholder="Usuario" />
+            </div>
+            <div class="input-group-custom">
+                <i class="bi bi-lock icon-left"></i>
+                <input type="password" class="form-control custom-input" placeholder="Contraseña" />
+            </div>
+            <div class="input-group-custom">
+                <i class="bi bi-envelope icon-left"></i>
+                <input type="email" class="form-control custom-input" placeholder="Email" />
+            </div>
+            <input type="submit" class="submit-btn" value="Registrarse" />
+
+            <div style="text-align: center; margin-top: 1rem;">
+                <span>¿Ya tienes una cuenta?</span>
+                <a href="/login" style="color: #c59180; font-weight: bold; text-decoration: none; margin-left: 0.5rem;">Inicia sesión</a>
+            </div>
+        </div>
+    </div>
+</div>

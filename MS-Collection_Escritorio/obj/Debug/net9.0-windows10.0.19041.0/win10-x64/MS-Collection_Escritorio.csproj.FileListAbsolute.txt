@@ -412,7 +412,6 @@ C:\Users\Admin\OneDrive\Desktop\Api\MS-Collection_Escritorio\obj\Debug\net9.0-wi
 C:\Users\Admin\OneDrive\Desktop\Api\MS-Collection_Escritorio\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\mssgloo4ne-e5tk7yf482.gz
 C:\Users\Admin\OneDrive\Desktop\Api\MS-Collection_Escritorio\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\hhdks3ndg6-6gzpyzhau4.gz
 C:\Users\Admin\OneDrive\Desktop\Api\MS-Collection_Escritorio\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\c50nzrh4jc-8inm30yfxf.gz
-C:\Users\Admin\OneDrive\Desktop\Api\MS-Collection_Escritorio\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\2d06vpuo91-7jk6sqvz5s.gz
 C:\Users\Admin\OneDrive\Desktop\Api\MS-Collection_Escritorio\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\31dt0xrbua-nuv7tpsx17.gz
 C:\Users\Admin\OneDrive\Desktop\Api\MS-Collection_Escritorio\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\k13311ad3r-nuv7tpsx17.gz
 C:\Users\Admin\OneDrive\Desktop\Api\MS-Collection_Escritorio\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\staticwebassets.build.json
@@ -430,7 +429,6 @@ C:\Users\Admin\OneDrive\Desktop\Api\MS-Collection_Escritorio\obj\Debug\net9.0-wi
 C:\Users\Admin\OneDrive\Desktop\Api\MS-Collection_Escritorio\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\publish\mssgloo4ne-e5tk7yf482.br
 C:\Users\Admin\OneDrive\Desktop\Api\MS-Collection_Escritorio\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\publish\hhdks3ndg6-6gzpyzhau4.br
 C:\Users\Admin\OneDrive\Desktop\Api\MS-Collection_Escritorio\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\publish\c50nzrh4jc-8inm30yfxf.br
-C:\Users\Admin\OneDrive\Desktop\Api\MS-Collection_Escritorio\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\publish\2d06vpuo91-7jk6sqvz5s.br
 C:\Users\Admin\OneDrive\Desktop\Api\MS-Collection_Escritorio\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\staticwebassets.publish.json
 C:\Users\Admin\OneDrive\Desktop\Api\MS-Collection_Escritorio\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\staticwebassets.publish.endpoints.json
 C:\Users\Admin\OneDrive\Desktop\Api\MS-Collection_Escritorio\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
@@ -530,3 +528,9 @@ C:\Users\Admin\OneDrive\Desktop\Api\MS-Collection_Escritorio\obj\Debug\net9.0-wi
 C:\Users\Admin\OneDrive\Desktop\Api\MS-Collection_Escritorio\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\qualifiers.txt
 C:\Users\Admin\OneDrive\Desktop\Api\MS-Collection_Escritorio\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\Admin\OneDrive\Desktop\Api\MS-Collection_Escritorio\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Admin\OneDrive\Desktop\Api\MS-Collection_Escritorio\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\MS-Collection_Escritorio.sourcelink.json
+C:\Users\Admin\OneDrive\Desktop\Api\MS-Collection_Escritorio\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\2d06vpuo91-6uc9v60rly.gz
+C:\Users\Admin\OneDrive\Desktop\Api\MS-Collection_Escritorio\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\publish\2d06vpuo91-6uc9v60rly.br
+C:\Users\Admin\OneDrive\Desktop\Api\MS-Collection_Escritorio\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\logo.scale-100.png
+C:\Users\Admin\OneDrive\Desktop\Api\MS-Collection_Escritorio\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo.scale-100.png
+C:\Users\Admin\OneDrive\Desktop\Api\MS-Collection_Escritorio\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\wwwroot\images\logo.png

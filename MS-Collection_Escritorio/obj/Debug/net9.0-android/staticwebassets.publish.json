@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "A12CBHBJlk89GY5SoksltIjCtw2659Kp3N6jg17hBh8=",
+  "Hash": "4XbV6owz+MeE+uvJLLhPvk9a9mRmGquz71omQ1DPofk=",
   "Source": "MS-Collection_Escritorio",
   "BasePath": "/",
   "Mode": "Root",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Escritorio\\obj\\Debug\\net9.0-android\\compressed\\2d06vpuo91-7jk6sqvz5s.gz",
+      "Identity": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Escritorio\\obj\\Debug\\net9.0-android\\compressed\\2d06vpuo91-6uc9v60rly.gz",
       "SourceId": "MS-Collection_Escritorio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Escritorio\\obj\\Debug\\net9.0-android\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "index#[.{fingerprint=7jk6sqvz5s}]?.html.gz",
+      "RelativePath": "index#[.{fingerprint=6uc9v60rly}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -31,8 +31,8 @@
       "RelatedAsset": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Escritorio\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "58fb5pldqb",
-      "Integrity": "KyUym2kO2cnyLInhuYsadbEbqX2EDyBepIUcTAEPHzk=",
+      "Fingerprint": "lk036ihp95",
+      "Integrity": "pcPcirA8hBI5r70ILK1XddxqDKYtQhzLC+RYSizFniw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Escritorio\\wwwroot\\index.html"
@@ -143,12 +143,12 @@
       "OriginalItemSpec": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Escritorio\\wwwroot\\css\\app.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Escritorio\\obj\\Debug\\net9.0-android\\compressed\\publish\\2d06vpuo91-7jk6sqvz5s.br",
+      "Identity": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Escritorio\\obj\\Debug\\net9.0-android\\compressed\\publish\\2d06vpuo91-6uc9v60rly.br",
       "SourceId": "MS-Collection_Escritorio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Escritorio\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
       "BasePath": "/",
-      "RelativePath": "index#[.{fingerprint=7jk6sqvz5s}]?.html.br",
+      "RelativePath": "index#[.{fingerprint=6uc9v60rly}]?.html.br",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -157,8 +157,8 @@
       "RelatedAsset": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Escritorio\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "ndz9x7ik93",
-      "Integrity": "W3hwgt9+a5VdsUZBh5i9AjZGiIvTK0ZjzzwdKDWzcl4=",
+      "Fingerprint": "vjk158onur",
+      "Integrity": "S6NhPpF+bAdbq5nqImklZaN05hsqsEX0L8P4MG7HSqw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Escritorio\\wwwroot\\index.html"
@@ -374,6 +374,27 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
+      "Identity": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Escritorio\\wwwroot\\images\\logo.png",
+      "SourceId": "MS-Collection_Escritorio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Escritorio\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "images/logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dpiezqyqmo",
+      "Integrity": "z16H7W4G08L/5Y4R5QbLkL2ROwetyTP75aEnVqOb+1c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo.png"
+    },
+    {
       "Identity": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Escritorio\\wwwroot\\index.html",
       "SourceId": "MS-Collection_Escritorio",
       "SourceType": "Discovered",
@@ -388,8 +409,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "7jk6sqvz5s",
-      "Integrity": "c6ExIbzYvEM93clK9JKmKlzXzNqkRZ09kK3kRh13iiM=",
+      "Fingerprint": "6uc9v60rly",
+      "Integrity": "PsAeCSJw6QVJWMFW8d3j+L7N/cxRG9r5vgw+fQqfh1s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
@@ -1939,13 +1960,95 @@
       ]
     },
     {
-      "Route": "index.7jk6sqvz5s.html",
-      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Escritorio\\obj\\Debug\\net9.0-android\\compressed\\2d06vpuo91-7jk6sqvz5s.gz",
+      "Route": "images/logo.dpiezqyqmo.png",
+      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Escritorio\\wwwroot\\images\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17399"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z16H7W4G08L/5Y4R5QbLkL2ROwetyTP75aEnVqOb+1c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Apr 2025 00:57:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dpiezqyqmo"
+        },
+        {
+          "Name": "label",
+          "Value": "images/logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z16H7W4G08L/5Y4R5QbLkL2ROwetyTP75aEnVqOb+1c="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo.png",
+      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Escritorio\\wwwroot\\images\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17399"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z16H7W4G08L/5Y4R5QbLkL2ROwetyTP75aEnVqOb+1c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Apr 2025 00:57:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z16H7W4G08L/5Y4R5QbLkL2ROwetyTP75aEnVqOb+1c="
+        }
+      ]
+    },
+    {
+      "Route": "index.6uc9v60rly.html",
+      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Escritorio\\obj\\Debug\\net9.0-android\\compressed\\2d06vpuo91-6uc9v60rly.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002227171492"
+          "Quality": "0.001988071571"
         }
       ],
       "ResponseHeaders": [
@@ -1955,15 +2058,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "448"
+          "Value": "502"
         },
         {
           "Name": "ETag",
-          "Value": "\"KyUym2kO2cnyLInhuYsadbEbqX2EDyBepIUcTAEPHzk=\""
+          "Value": "\"pcPcirA8hBI5r70ILK1XddxqDKYtQhzLC+RYSizFniw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 15:27:00 GMT"
+          "Value": "Mon, 07 Apr 2025 13:25:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1983,13 +2086,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"c6ExIbzYvEM93clK9JKmKlzXzNqkRZ09kK3kRh13iiM=\""
+          "Value": "W/\"PsAeCSJw6QVJWMFW8d3j+L7N/cxRG9r5vgw+fQqfh1s=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "7jk6sqvz5s"
+          "Value": "6uc9v60rly"
         },
         {
           "Name": "label",
@@ -1997,18 +2100,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-c6ExIbzYvEM93clK9JKmKlzXzNqkRZ09kK3kRh13iiM="
+          "Value": "sha256-PsAeCSJw6QVJWMFW8d3j+L7N/cxRG9r5vgw+fQqfh1s="
         }
       ]
     },
     {
-      "Route": "index.7jk6sqvz5s.html",
-      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Escritorio\\obj\\Debug\\net9.0-android\\compressed\\publish\\2d06vpuo91-7jk6sqvz5s.br",
+      "Route": "index.6uc9v60rly.html",
+      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Escritorio\\obj\\Debug\\net9.0-android\\compressed\\publish\\2d06vpuo91-6uc9v60rly.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.003012048193"
+          "Quality": "0.002793296089"
         }
       ],
       "ResponseHeaders": [
@@ -2018,15 +2121,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "331"
+          "Value": "357"
         },
         {
           "Name": "ETag",
-          "Value": "\"W3hwgt9+a5VdsUZBh5i9AjZGiIvTK0ZjzzwdKDWzcl4=\""
+          "Value": "\"S6NhPpF+bAdbq5nqImklZaN05hsqsEX0L8P4MG7HSqw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 15:27:00 GMT"
+          "Value": "Mon, 07 Apr 2025 13:25:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2046,13 +2149,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"c6ExIbzYvEM93clK9JKmKlzXzNqkRZ09kK3kRh13iiM=\""
+          "Value": "W/\"PsAeCSJw6QVJWMFW8d3j+L7N/cxRG9r5vgw+fQqfh1s=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "7jk6sqvz5s"
+          "Value": "6uc9v60rly"
         },
         {
           "Name": "label",
@@ -2060,12 +2163,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-c6ExIbzYvEM93clK9JKmKlzXzNqkRZ09kK3kRh13iiM="
+          "Value": "sha256-PsAeCSJw6QVJWMFW8d3j+L7N/cxRG9r5vgw+fQqfh1s="
         }
       ]
     },
     {
-      "Route": "index.7jk6sqvz5s.html",
+      "Route": "index.6uc9v60rly.html",
       "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Escritorio\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2075,7 +2178,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "881"
+          "Value": "989"
         },
         {
           "Name": "Content-Type",
@@ -2083,11 +2186,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"c6ExIbzYvEM93clK9JKmKlzXzNqkRZ09kK3kRh13iiM=\""
+          "Value": "\"PsAeCSJw6QVJWMFW8d3j+L7N/cxRG9r5vgw+fQqfh1s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 15:27:00 GMT"
+          "Value": "Mon, 07 Apr 2025 13:25:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2097,7 +2200,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "7jk6sqvz5s"
+          "Value": "6uc9v60rly"
         },
         {
           "Name": "label",
@@ -2105,13 +2208,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-c6ExIbzYvEM93clK9JKmKlzXzNqkRZ09kK3kRh13iiM="
+          "Value": "sha256-PsAeCSJw6QVJWMFW8d3j+L7N/cxRG9r5vgw+fQqfh1s="
         }
       ]
     },
     {
-      "Route": "index.7jk6sqvz5s.html.br",
-      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Escritorio\\obj\\Debug\\net9.0-android\\compressed\\publish\\2d06vpuo91-7jk6sqvz5s.br",
+      "Route": "index.6uc9v60rly.html.br",
+      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Escritorio\\obj\\Debug\\net9.0-android\\compressed\\publish\\2d06vpuo91-6uc9v60rly.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2120,7 +2223,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "331"
+          "Value": "357"
         },
         {
           "Name": "Content-Type",
@@ -2128,11 +2231,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"W3hwgt9+a5VdsUZBh5i9AjZGiIvTK0ZjzzwdKDWzcl4=\""
+          "Value": "\"S6NhPpF+bAdbq5nqImklZaN05hsqsEX0L8P4MG7HSqw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 15:27:00 GMT"
+          "Value": "Mon, 07 Apr 2025 13:25:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2150,7 +2253,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "7jk6sqvz5s"
+          "Value": "6uc9v60rly"
         },
         {
           "Name": "label",
@@ -2158,13 +2261,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-W3hwgt9+a5VdsUZBh5i9AjZGiIvTK0ZjzzwdKDWzcl4="
+          "Value": "sha256-S6NhPpF+bAdbq5nqImklZaN05hsqsEX0L8P4MG7HSqw="
         }
       ]
     },
     {
-      "Route": "index.7jk6sqvz5s.html.gz",
-      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Escritorio\\obj\\Debug\\net9.0-android\\compressed\\2d06vpuo91-7jk6sqvz5s.gz",
+      "Route": "index.6uc9v60rly.html.gz",
+      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Escritorio\\obj\\Debug\\net9.0-android\\compressed\\2d06vpuo91-6uc9v60rly.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2173,7 +2276,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "448"
+          "Value": "502"
         },
         {
           "Name": "Content-Type",
@@ -2181,11 +2284,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KyUym2kO2cnyLInhuYsadbEbqX2EDyBepIUcTAEPHzk=\""
+          "Value": "\"pcPcirA8hBI5r70ILK1XddxqDKYtQhzLC+RYSizFniw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 15:27:00 GMT"
+          "Value": "Mon, 07 Apr 2025 13:25:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2203,7 +2306,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "7jk6sqvz5s"
+          "Value": "6uc9v60rly"
         },
         {
           "Name": "label",
@@ -2211,18 +2314,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-KyUym2kO2cnyLInhuYsadbEbqX2EDyBepIUcTAEPHzk="
+          "Value": "sha256-pcPcirA8hBI5r70ILK1XddxqDKYtQhzLC+RYSizFniw="
         }
       ]
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Escritorio\\obj\\Debug\\net9.0-android\\compressed\\2d06vpuo91-7jk6sqvz5s.gz",
+      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Escritorio\\obj\\Debug\\net9.0-android\\compressed\\2d06vpuo91-6uc9v60rly.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002227171492"
+          "Quality": "0.001988071571"
         }
       ],
       "ResponseHeaders": [
@@ -2232,15 +2335,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "448"
+          "Value": "502"
         },
         {
           "Name": "ETag",
-          "Value": "\"KyUym2kO2cnyLInhuYsadbEbqX2EDyBepIUcTAEPHzk=\""
+          "Value": "\"pcPcirA8hBI5r70ILK1XddxqDKYtQhzLC+RYSizFniw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 15:27:00 GMT"
+          "Value": "Mon, 07 Apr 2025 13:25:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2260,24 +2363,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"c6ExIbzYvEM93clK9JKmKlzXzNqkRZ09kK3kRh13iiM=\""
+          "Value": "W/\"PsAeCSJw6QVJWMFW8d3j+L7N/cxRG9r5vgw+fQqfh1s=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-c6ExIbzYvEM93clK9JKmKlzXzNqkRZ09kK3kRh13iiM="
+          "Value": "sha256-PsAeCSJw6QVJWMFW8d3j+L7N/cxRG9r5vgw+fQqfh1s="
         }
       ]
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Escritorio\\obj\\Debug\\net9.0-android\\compressed\\publish\\2d06vpuo91-7jk6sqvz5s.br",
+      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Escritorio\\obj\\Debug\\net9.0-android\\compressed\\publish\\2d06vpuo91-6uc9v60rly.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.003012048193"
+          "Quality": "0.002793296089"
         }
       ],
       "ResponseHeaders": [
@@ -2287,15 +2390,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "331"
+          "Value": "357"
         },
         {
           "Name": "ETag",
-          "Value": "\"W3hwgt9+a5VdsUZBh5i9AjZGiIvTK0ZjzzwdKDWzcl4=\""
+          "Value": "\"S6NhPpF+bAdbq5nqImklZaN05hsqsEX0L8P4MG7HSqw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 15:27:00 GMT"
+          "Value": "Mon, 07 Apr 2025 13:25:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2315,13 +2418,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"c6ExIbzYvEM93clK9JKmKlzXzNqkRZ09kK3kRh13iiM=\""
+          "Value": "W/\"PsAeCSJw6QVJWMFW8d3j+L7N/cxRG9r5vgw+fQqfh1s=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-c6ExIbzYvEM93clK9JKmKlzXzNqkRZ09kK3kRh13iiM="
+          "Value": "sha256-PsAeCSJw6QVJWMFW8d3j+L7N/cxRG9r5vgw+fQqfh1s="
         }
       ]
     },
@@ -2336,7 +2439,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "881"
+          "Value": "989"
         },
         {
           "Name": "Content-Type",
@@ -2344,11 +2447,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"c6ExIbzYvEM93clK9JKmKlzXzNqkRZ09kK3kRh13iiM=\""
+          "Value": "\"PsAeCSJw6QVJWMFW8d3j+L7N/cxRG9r5vgw+fQqfh1s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 15:27:00 GMT"
+          "Value": "Mon, 07 Apr 2025 13:25:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2358,13 +2461,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-c6ExIbzYvEM93clK9JKmKlzXzNqkRZ09kK3kRh13iiM="
+          "Value": "sha256-PsAeCSJw6QVJWMFW8d3j+L7N/cxRG9r5vgw+fQqfh1s="
         }
       ]
     },
     {
       "Route": "index.html.br",
-      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Escritorio\\obj\\Debug\\net9.0-android\\compressed\\publish\\2d06vpuo91-7jk6sqvz5s.br",
+      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Escritorio\\obj\\Debug\\net9.0-android\\compressed\\publish\\2d06vpuo91-6uc9v60rly.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2373,7 +2476,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "331"
+          "Value": "357"
         },
         {
           "Name": "Content-Type",
@@ -2381,11 +2484,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"W3hwgt9+a5VdsUZBh5i9AjZGiIvTK0ZjzzwdKDWzcl4=\""
+          "Value": "\"S6NhPpF+bAdbq5nqImklZaN05hsqsEX0L8P4MG7HSqw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 15:27:00 GMT"
+          "Value": "Mon, 07 Apr 2025 13:25:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2403,13 +2506,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-W3hwgt9+a5VdsUZBh5i9AjZGiIvTK0ZjzzwdKDWzcl4="
+          "Value": "sha256-S6NhPpF+bAdbq5nqImklZaN05hsqsEX0L8P4MG7HSqw="
         }
       ]
     },
     {
       "Route": "index.html.gz",
-      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Escritorio\\obj\\Debug\\net9.0-android\\compressed\\2d06vpuo91-7jk6sqvz5s.gz",
+      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Escritorio\\obj\\Debug\\net9.0-android\\compressed\\2d06vpuo91-6uc9v60rly.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2418,7 +2521,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "448"
+          "Value": "502"
         },
         {
           "Name": "Content-Type",
@@ -2426,11 +2529,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KyUym2kO2cnyLInhuYsadbEbqX2EDyBepIUcTAEPHzk=\""
+          "Value": "\"pcPcirA8hBI5r70ILK1XddxqDKYtQhzLC+RYSizFniw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 15:27:00 GMT"
+          "Value": "Mon, 07 Apr 2025 13:25:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2448,7 +2551,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-KyUym2kO2cnyLInhuYsadbEbqX2EDyBepIUcTAEPHzk="
+          "Value": "sha256-pcPcirA8hBI5r70ILK1XddxqDKYtQhzLC+RYSizFniw="
         }
       ]
     },

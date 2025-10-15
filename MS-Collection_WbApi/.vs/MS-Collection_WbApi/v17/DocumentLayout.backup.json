@@ -1,7 +1,26 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_WbApi\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54C17E83-AA91-499A-9FFC-F7563FD58D00}|..\\MS-Collection_Web\\MS-Collection_Web.csproj|c:\\users\\admin\\onedrive\\desktop\\api\\ms-collection_web\\pages\\carrito.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C17E83-AA91-499A-9FFC-F7563FD58D00}|..\\MS-Collection_Web\\MS-Collection_Web.csproj|c:\\users\\admin\\onedrive\\desktop\\api\\ms-collection_web\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C17E83-AA91-499A-9FFC-F7563FD58D00}|..\\MS-Collection_Web\\MS-Collection_Web.csproj|c:\\users\\admin\\onedrive\\desktop\\api\\ms-collection_web\\pages\\detalle.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C17E83-AA91-499A-9FFC-F7563FD58D00}|..\\MS-Collection_Web\\MS-Collection_Web.csproj|c:\\users\\admin\\onedrive\\desktop\\api\\ms-collection_web\\pages\\catalogo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C17E83-AA91-499A-9FFC-F7563FD58D00}|..\\MS-Collection_Web\\MS-Collection_Web.csproj|c:\\users\\admin\\onedrive\\desktop\\api\\ms-collection_web\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C17E83-AA91-499A-9FFC-F7563FD58D00}|..\\MS-Collection_Web\\MS-Collection_Web.csproj|c:\\users\\admin\\onedrive\\desktop\\api\\ms-collection_web\\pages\\recuperarcontrase\u00F1a.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +28,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +45,84 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Carrito.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\Pages\\Carrito.razor",
+              "RelativeDocumentMoniker": "..\\MS-Collection_Web\\Pages\\Carrito.razor",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\Pages\\Carrito.razor*",
+              "RelativeToolTip": "..\\MS-Collection_Web\\Pages\\Carrito.razor*",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T01:42:21.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "..\\MS-Collection_Web\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\Pages\\Home.razor",
+              "RelativeToolTip": "..\\MS-Collection_Web\\Pages\\Home.razor",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAmwJQAAACOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T01:33:48.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Catalogo.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\Pages\\Catalogo.razor",
+              "RelativeDocumentMoniker": "..\\MS-Collection_Web\\Pages\\Catalogo.razor",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\Pages\\Catalogo.razor",
+              "RelativeToolTip": "..\\MS-Collection_Web\\Pages\\Catalogo.razor",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T01:33:39.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Detalle.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\Pages\\Detalle.razor",
+              "RelativeDocumentMoniker": "..\\MS-Collection_Web\\Pages\\Detalle.razor",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\Pages\\Detalle.razor",
+              "RelativeToolTip": "..\\MS-Collection_Web\\Pages\\Detalle.razor",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAHsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T01:31:44.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RecuperarContrase\u00F1a.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\Pages\\RecuperarContrase\u00F1a.razor",
+              "RelativeDocumentMoniker": "..\\MS-Collection_Web\\Pages\\RecuperarContrase\u00F1a.razor",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\Pages\\RecuperarContrase\u00F1a.razor",
+              "RelativeToolTip": "..\\MS-Collection_Web\\Pages\\RecuperarContrase\u00F1a.razor",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAIwIMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T01:16:47.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "..\\MS-Collection_Web\\Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\Pages\\Login.razor",
+              "RelativeToolTip": "..\\MS-Collection_Web\\Pages\\Login.razor",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAmwJ4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T21:11:04.188Z",
+              "EditorCaption": ""
             }
           ]
         }

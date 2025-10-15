@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ar6JD4254BWKnAcRfSY6/Q4ypgd1am8vzMapM43Qas8=",
+  "Hash": "xUZYv6jnihCfgKGfHM18Xk1OAoi2YgNtsF/qNWuSmmI=",
   "Source": "MS-Collection_Web",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "dhz3b7it58",
-      "Integrity": "n2LHFPhBPqWFKrHP1KVtCs6WbDzPcE5eXOznQj51Pu8=",
+      "Fingerprint": "7d7zcbfslz",
+      "Integrity": "C5gjbqe2jyYA825EPOm4M4drHwJDm0yDY9MnypgEkAc=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -829,8 +829,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "awnrgvr8wk",
-      "Integrity": "RrIv/bvGHs2MsDwrjcjDFj+C6cvSFBAGF4DZ3wRn7aw=",
+      "Fingerprint": "nwm32z7l4h",
+      "Integrity": "SQs5Hi05+uDya9nd87ayomX/LzmYPZ9egMH9wN7mTC4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\MS-Collection_Web.pdb"
@@ -850,8 +850,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "yveq9iwawm",
-      "Integrity": "3n5BmEmi1eQjrvYYWU681slK538jJa6ma3c8TTbYhRg=",
+      "Fingerprint": "jrbtro7uxn",
+      "Integrity": "zyt66WVNX5wUo5HgfWRc15BXG8n1rrHaoyvLtaLO94I=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\webcil\\MS-Collection_Web.wasm"
@@ -5981,7 +5981,7 @@
       "OriginalItemSpec": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Runtime.CompilerServices.VisualC.wasm"
     },
     {
-      "Identity": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\compressed\\9heaprx8o8-8pa7ttbpu6.gz",
+      "Identity": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\compressed\\9heaprx8o8-c0dntxhcnz.gz",
       "SourceId": "MS-Collection_Web",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\compressed\\",
@@ -5995,8 +5995,8 @@
       "RelatedAsset": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\service-worker\\service-worker-assets.js.build",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "sf21jlqfm3",
-      "Integrity": "aHa5saO4Nw3GD2qWueMLZ9an4C7jT61Aq2r41ZMGX+c=",
+      "Fingerprint": "gfwnjasgu7",
+      "Integrity": "FOGZfb7uwOjy1zuTvcZHM1I1BsFBgX0d3pb2HEzPYTk=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\service-worker\\service-worker-assets.js.build"
@@ -6065,7 +6065,7 @@
       "OriginalItemSpec": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Collections.wasm"
     },
     {
-      "Identity": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\compressed\\9wzdmm0ao1-dhz3b7it58.gz",
+      "Identity": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\compressed\\9wzdmm0ao1-7d7zcbfslz.gz",
       "SourceId": "MS-Collection_Web",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\compressed\\",
@@ -6079,8 +6079,8 @@
       "RelatedAsset": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ya596prmiz",
-      "Integrity": "5oIn19ejspP2bkvL6bYRYHpBrfHCx99sza7IAEaW1Oo=",
+      "Fingerprint": "6crk2xlnmn",
+      "Integrity": "Zj0H+v8gIUYJ2eIDrwJHsv6ieX6pBZalaHJPDzW9Qqo=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -6149,12 +6149,12 @@
       "OriginalItemSpec": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.ValueTuple.wasm"
     },
     {
-      "Identity": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\compressed\\aoi4vpn1ua-yveq9iwawm.gz",
+      "Identity": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\compressed\\aoi4vpn1ua-jrbtro7uxn.gz",
       "SourceId": "MS-Collection_Web",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/MS-Collection_Web#[.{fingerprint=yveq9iwawm}]!.wasm.gz",
+      "RelativePath": "_framework/MS-Collection_Web#[.{fingerprint=jrbtro7uxn}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6163,8 +6163,8 @@
       "RelatedAsset": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\MS-Collection_Web.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "lbhvw5pxd1",
-      "Integrity": "j3KgQKzdMxXkBnTlUxsXfQXnAnmxi9ivLaPzuBFx+e8=",
+      "Fingerprint": "ud0h5oqzjh",
+      "Integrity": "MgHNJUfY+uI25CMqDg3Hvuh2ytw8hHOdUwc2k9DerwU=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\MS-Collection_Web.wasm"
@@ -6989,12 +6989,12 @@
       "OriginalItemSpec": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.ComponentModel.EventBasedAsync.wasm"
     },
     {
-      "Identity": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\compressed\\gb57nv3oq4-awnrgvr8wk.gz",
+      "Identity": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\compressed\\gb57nv3oq4-nwm32z7l4h.gz",
       "SourceId": "MS-Collection_Web",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/MS-Collection_Web#[.{fingerprint=awnrgvr8wk}]!.pdb.gz",
+      "RelativePath": "_framework/MS-Collection_Web#[.{fingerprint=nwm32z7l4h}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7003,8 +7003,8 @@
       "RelatedAsset": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\MS-Collection_Web.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "rzvnvb1444",
-      "Integrity": "SWNDpAt+HlDU/WzIu+pW6UsiOhbgUf4ddJPkuS7EQ/w=",
+      "Fingerprint": "d9j4b24o6i",
+      "Integrity": "f1Ldl55pC/mNF8wcCsON7swgOcacxDXAyRezERsLZKE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\MS-Collection_Web.pdb"
@@ -9467,7 +9467,7 @@
       "OriginalItemSpec": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Diagnostics.Debug.wasm"
     },
     {
-      "Identity": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\compressed\\ykv1td1bt3-pt69hwcnrz.gz",
+      "Identity": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\compressed\\ykv1td1bt3-397srw7glj.gz",
       "SourceId": "MS-Collection_Web",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\compressed\\",
@@ -9733,8 +9733,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "BlazorServiceWorker",
       "AssetTraitValue": "ServiceWorkerJs",
-      "Fingerprint": "pt69hwcnrz",
-      "Integrity": "zTtiMGFQSnQfummwh9DA28YMvXY2UAljLw0nyU+l/MQ=",
+      "Fingerprint": "397srw7glj",
+      "Integrity": "t/7qA3wolCRezGq7N4TlCP2/ZAn2hEznnQmH/KyodUo=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "wwwroot\\service-worker.js"
@@ -9754,8 +9754,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "BlazorServiceWorker",
       "AssetTraitValue": "ServiceWorkerManifest",
-      "Fingerprint": "8pa7ttbpu6",
-      "Integrity": "7PKASGm9BSRd0Q4yRcfYtnns8FMzHVGAgeIuEGklfVY=",
+      "Fingerprint": "c0dntxhcnz",
+      "Integrity": "ZO1aljZqsoSR0TJaITn5ZpY5TMCpDaee2Eh6tMJJ7hc=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\service-worker\\service-worker-assets.js.build"
@@ -10915,11 +10915,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"n2LHFPhBPqWFKrHP1KVtCs6WbDzPcE5eXOznQj51Pu8=\""
+          "Value": "\"C5gjbqe2jyYA825EPOm4M4drHwJDm0yDY9MnypgEkAc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 19:21:15 GMT"
+          "Value": "Wed, 09 Apr 2025 01:47:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10929,18 +10929,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-n2LHFPhBPqWFKrHP1KVtCs6WbDzPcE5eXOznQj51Pu8="
+          "Value": "sha256-C5gjbqe2jyYA825EPOm4M4drHwJDm0yDY9MnypgEkAc="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\compressed\\9wzdmm0ao1-dhz3b7it58.gz",
+      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\compressed\\9wzdmm0ao1-7d7zcbfslz.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000080958549"
+          "Quality": "0.000080951995"
         }
       ],
       "ResponseHeaders": [
@@ -10950,15 +10950,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12351"
+          "Value": "12352"
         },
         {
           "Name": "ETag",
-          "Value": "\"5oIn19ejspP2bkvL6bYRYHpBrfHCx99sza7IAEaW1Oo=\""
+          "Value": "\"Zj0H+v8gIUYJ2eIDrwJHsv6ieX6pBZalaHJPDzW9Qqo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 19:16:20 GMT"
+          "Value": "Wed, 09 Apr 2025 01:44:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10978,19 +10978,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"n2LHFPhBPqWFKrHP1KVtCs6WbDzPcE5eXOznQj51Pu8=\""
+          "Value": "W/\"C5gjbqe2jyYA825EPOm4M4drHwJDm0yDY9MnypgEkAc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-n2LHFPhBPqWFKrHP1KVtCs6WbDzPcE5eXOznQj51Pu8="
+          "Value": "sha256-C5gjbqe2jyYA825EPOm4M4drHwJDm0yDY9MnypgEkAc="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\compressed\\9wzdmm0ao1-dhz3b7it58.gz",
+      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\compressed\\9wzdmm0ao1-7d7zcbfslz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10999,7 +10999,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12351"
+          "Value": "12352"
         },
         {
           "Name": "Content-Type",
@@ -11007,11 +11007,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5oIn19ejspP2bkvL6bYRYHpBrfHCx99sza7IAEaW1Oo=\""
+          "Value": "\"Zj0H+v8gIUYJ2eIDrwJHsv6ieX6pBZalaHJPDzW9Qqo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 19:16:20 GMT"
+          "Value": "Wed, 09 Apr 2025 01:44:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11029,7 +11029,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5oIn19ejspP2bkvL6bYRYHpBrfHCx99sza7IAEaW1Oo="
+          "Value": "sha256-Zj0H+v8gIUYJ2eIDrwJHsv6ieX6pBZalaHJPDzW9Qqo="
         }
       ]
     },
@@ -21899,305 +21899,7 @@
       ]
     },
     {
-      "Route": "_framework/MS-Collection_Web.awnrgvr8wk.pdb",
-      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\MS-Collection_Web.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "36216"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"RrIv/bvGHs2MsDwrjcjDFj+C6cvSFBAGF4DZ3wRn7aw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 19:21:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "awnrgvr8wk"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/MS-Collection_Web.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-RrIv/bvGHs2MsDwrjcjDFj+C6cvSFBAGF4DZ3wRn7aw="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/MS-Collection_Web.awnrgvr8wk.pdb",
-      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\compressed\\gb57nv3oq4-awnrgvr8wk.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000034566194"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "28929"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SWNDpAt+HlDU/WzIu+pW6UsiOhbgUf4ddJPkuS7EQ/w=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 19:21:15 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"RrIv/bvGHs2MsDwrjcjDFj+C6cvSFBAGF4DZ3wRn7aw=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "awnrgvr8wk"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/MS-Collection_Web.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-RrIv/bvGHs2MsDwrjcjDFj+C6cvSFBAGF4DZ3wRn7aw="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/MS-Collection_Web.awnrgvr8wk.pdb.gz",
-      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\compressed\\gb57nv3oq4-awnrgvr8wk.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "28929"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SWNDpAt+HlDU/WzIu+pW6UsiOhbgUf4ddJPkuS7EQ/w=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 19:21:15 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "awnrgvr8wk"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/MS-Collection_Web.pdb.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-SWNDpAt+HlDU/WzIu+pW6UsiOhbgUf4ddJPkuS7EQ/w="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/MS-Collection_Web.pdb",
-      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\MS-Collection_Web.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "36216"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"RrIv/bvGHs2MsDwrjcjDFj+C6cvSFBAGF4DZ3wRn7aw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 19:21:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-RrIv/bvGHs2MsDwrjcjDFj+C6cvSFBAGF4DZ3wRn7aw="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/MS-Collection_Web.pdb",
-      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\compressed\\gb57nv3oq4-awnrgvr8wk.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000034566194"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "28929"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SWNDpAt+HlDU/WzIu+pW6UsiOhbgUf4ddJPkuS7EQ/w=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 19:21:15 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"RrIv/bvGHs2MsDwrjcjDFj+C6cvSFBAGF4DZ3wRn7aw=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-RrIv/bvGHs2MsDwrjcjDFj+C6cvSFBAGF4DZ3wRn7aw="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/MS-Collection_Web.pdb.gz",
-      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\compressed\\gb57nv3oq4-awnrgvr8wk.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "28929"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SWNDpAt+HlDU/WzIu+pW6UsiOhbgUf4ddJPkuS7EQ/w=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 19:21:15 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-SWNDpAt+HlDU/WzIu+pW6UsiOhbgUf4ddJPkuS7EQ/w="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/MS-Collection_Web.wasm",
+      "Route": "_framework/MS-Collection_Web.jrbtro7uxn.wasm",
       "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\MS-Collection_Web.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -22207,7 +21909,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "62229"
+          "Value": "120085"
         },
         {
           "Name": "Content-Type",
@@ -22215,148 +21917,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3n5BmEmi1eQjrvYYWU681slK538jJa6ma3c8TTbYhRg=\""
+          "Value": "\"zyt66WVNX5wUo5HgfWRc15BXG8n1rrHaoyvLtaLO94I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 19:04:02 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-3n5BmEmi1eQjrvYYWU681slK538jJa6ma3c8TTbYhRg="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/MS-Collection_Web.wasm",
-      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\compressed\\aoi4vpn1ua-yveq9iwawm.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000063459830"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "15757"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"j3KgQKzdMxXkBnTlUxsXfQXnAnmxi9ivLaPzuBFx+e8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 19:04:03 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"3n5BmEmi1eQjrvYYWU681slK538jJa6ma3c8TTbYhRg=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-3n5BmEmi1eQjrvYYWU681slK538jJa6ma3c8TTbYhRg="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/MS-Collection_Web.wasm.gz",
-      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\compressed\\aoi4vpn1ua-yveq9iwawm.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "15757"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"j3KgQKzdMxXkBnTlUxsXfQXnAnmxi9ivLaPzuBFx+e8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 19:04:03 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j3KgQKzdMxXkBnTlUxsXfQXnAnmxi9ivLaPzuBFx+e8="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/MS-Collection_Web.yveq9iwawm.wasm",
-      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\MS-Collection_Web.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "62229"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3n5BmEmi1eQjrvYYWU681slK538jJa6ma3c8TTbYhRg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 19:04:02 GMT"
+          "Value": "Wed, 09 Apr 2025 01:47:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22366,7 +21931,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "yveq9iwawm"
+          "Value": "jrbtro7uxn"
         },
         {
           "Name": "label",
@@ -22374,18 +21939,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-3n5BmEmi1eQjrvYYWU681slK538jJa6ma3c8TTbYhRg="
+          "Value": "sha256-zyt66WVNX5wUo5HgfWRc15BXG8n1rrHaoyvLtaLO94I="
         }
       ]
     },
     {
-      "Route": "_framework/MS-Collection_Web.yveq9iwawm.wasm",
-      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\compressed\\aoi4vpn1ua-yveq9iwawm.gz",
+      "Route": "_framework/MS-Collection_Web.jrbtro7uxn.wasm",
+      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\compressed\\aoi4vpn1ua-jrbtro7uxn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000063459830"
+          "Quality": "0.000047032264"
         }
       ],
       "ResponseHeaders": [
@@ -22395,15 +21960,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "15757"
+          "Value": "21261"
         },
         {
           "Name": "ETag",
-          "Value": "\"j3KgQKzdMxXkBnTlUxsXfQXnAnmxi9ivLaPzuBFx+e8=\""
+          "Value": "\"MgHNJUfY+uI25CMqDg3Hvuh2ytw8hHOdUwc2k9DerwU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 19:04:03 GMT"
+          "Value": "Wed, 09 Apr 2025 01:47:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22423,13 +21988,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"3n5BmEmi1eQjrvYYWU681slK538jJa6ma3c8TTbYhRg=\""
+          "Value": "W/\"zyt66WVNX5wUo5HgfWRc15BXG8n1rrHaoyvLtaLO94I=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "yveq9iwawm"
+          "Value": "jrbtro7uxn"
         },
         {
           "Name": "label",
@@ -22437,13 +22002,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-3n5BmEmi1eQjrvYYWU681slK538jJa6ma3c8TTbYhRg="
+          "Value": "sha256-zyt66WVNX5wUo5HgfWRc15BXG8n1rrHaoyvLtaLO94I="
         }
       ]
     },
     {
-      "Route": "_framework/MS-Collection_Web.yveq9iwawm.wasm.gz",
-      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\compressed\\aoi4vpn1ua-yveq9iwawm.gz",
+      "Route": "_framework/MS-Collection_Web.jrbtro7uxn.wasm.gz",
+      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\compressed\\aoi4vpn1ua-jrbtro7uxn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22452,7 +22017,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "15757"
+          "Value": "21261"
         },
         {
           "Name": "Content-Type",
@@ -22460,11 +22025,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j3KgQKzdMxXkBnTlUxsXfQXnAnmxi9ivLaPzuBFx+e8=\""
+          "Value": "\"MgHNJUfY+uI25CMqDg3Hvuh2ytw8hHOdUwc2k9DerwU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 19:04:03 GMT"
+          "Value": "Wed, 09 Apr 2025 01:47:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22482,7 +22047,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "yveq9iwawm"
+          "Value": "jrbtro7uxn"
         },
         {
           "Name": "label",
@@ -22490,7 +22055,442 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j3KgQKzdMxXkBnTlUxsXfQXnAnmxi9ivLaPzuBFx+e8="
+          "Value": "sha256-MgHNJUfY+uI25CMqDg3Hvuh2ytw8hHOdUwc2k9DerwU="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/MS-Collection_Web.nwm32z7l4h.pdb",
+      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\MS-Collection_Web.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48300"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SQs5Hi05+uDya9nd87ayomX/LzmYPZ9egMH9wN7mTC4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 01:47:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nwm32z7l4h"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/MS-Collection_Web.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SQs5Hi05+uDya9nd87ayomX/LzmYPZ9egMH9wN7mTC4="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/MS-Collection_Web.nwm32z7l4h.pdb",
+      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\compressed\\gb57nv3oq4-nwm32z7l4h.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000024526034"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40772"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f1Ldl55pC/mNF8wcCsON7swgOcacxDXAyRezERsLZKE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 01:47:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SQs5Hi05+uDya9nd87ayomX/LzmYPZ9egMH9wN7mTC4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nwm32z7l4h"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/MS-Collection_Web.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SQs5Hi05+uDya9nd87ayomX/LzmYPZ9egMH9wN7mTC4="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/MS-Collection_Web.nwm32z7l4h.pdb.gz",
+      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\compressed\\gb57nv3oq4-nwm32z7l4h.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40772"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f1Ldl55pC/mNF8wcCsON7swgOcacxDXAyRezERsLZKE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 01:47:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nwm32z7l4h"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/MS-Collection_Web.pdb.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-f1Ldl55pC/mNF8wcCsON7swgOcacxDXAyRezERsLZKE="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/MS-Collection_Web.pdb",
+      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\MS-Collection_Web.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48300"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SQs5Hi05+uDya9nd87ayomX/LzmYPZ9egMH9wN7mTC4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 01:47:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SQs5Hi05+uDya9nd87ayomX/LzmYPZ9egMH9wN7mTC4="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/MS-Collection_Web.pdb",
+      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\compressed\\gb57nv3oq4-nwm32z7l4h.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000024526034"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40772"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f1Ldl55pC/mNF8wcCsON7swgOcacxDXAyRezERsLZKE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 01:47:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SQs5Hi05+uDya9nd87ayomX/LzmYPZ9egMH9wN7mTC4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SQs5Hi05+uDya9nd87ayomX/LzmYPZ9egMH9wN7mTC4="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/MS-Collection_Web.pdb.gz",
+      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\compressed\\gb57nv3oq4-nwm32z7l4h.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40772"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f1Ldl55pC/mNF8wcCsON7swgOcacxDXAyRezERsLZKE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 01:47:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-f1Ldl55pC/mNF8wcCsON7swgOcacxDXAyRezERsLZKE="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/MS-Collection_Web.wasm",
+      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\MS-Collection_Web.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "120085"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zyt66WVNX5wUo5HgfWRc15BXG8n1rrHaoyvLtaLO94I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 01:47:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zyt66WVNX5wUo5HgfWRc15BXG8n1rrHaoyvLtaLO94I="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/MS-Collection_Web.wasm",
+      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\compressed\\aoi4vpn1ua-jrbtro7uxn.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000047032264"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21261"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MgHNJUfY+uI25CMqDg3Hvuh2ytw8hHOdUwc2k9DerwU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 01:47:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"zyt66WVNX5wUo5HgfWRc15BXG8n1rrHaoyvLtaLO94I=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zyt66WVNX5wUo5HgfWRc15BXG8n1rrHaoyvLtaLO94I="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/MS-Collection_Web.wasm.gz",
+      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\compressed\\aoi4vpn1ua-jrbtro7uxn.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21261"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MgHNJUfY+uI25CMqDg3Hvuh2ytw8hHOdUwc2k9DerwU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 01:47:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MgHNJUfY+uI25CMqDg3Hvuh2ytw8hHOdUwc2k9DerwU="
         }
       ]
     },
@@ -86760,7 +86760,7 @@
     },
     {
       "Route": "service-worker.js",
-      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\compressed\\ykv1td1bt3-pt69hwcnrz.gz",
+      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\compressed\\ykv1td1bt3-397srw7glj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -86783,7 +86783,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 19:21:15 GMT"
+          "Value": "Wed, 09 Apr 2025 01:47:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -86803,13 +86803,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"zTtiMGFQSnQfummwh9DA28YMvXY2UAljLw0nyU+l/MQ=\""
+          "Value": "W/\"t/7qA3wolCRezGq7N4TlCP2/ZAn2hEznnQmH/KyodUo=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zTtiMGFQSnQfummwh9DA28YMvXY2UAljLw0nyU+l/MQ="
+          "Value": "sha256-t/7qA3wolCRezGq7N4TlCP2/ZAn2hEznnQmH/KyodUo="
         }
       ]
     },
@@ -86832,7 +86832,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zTtiMGFQSnQfummwh9DA28YMvXY2UAljLw0nyU+l/MQ=\""
+          "Value": "\"t/7qA3wolCRezGq7N4TlCP2/ZAn2hEznnQmH/KyodUo=\""
         },
         {
           "Name": "Last-Modified",
@@ -86846,13 +86846,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zTtiMGFQSnQfummwh9DA28YMvXY2UAljLw0nyU+l/MQ="
+          "Value": "sha256-t/7qA3wolCRezGq7N4TlCP2/ZAn2hEznnQmH/KyodUo="
         }
       ]
     },
     {
       "Route": "service-worker.js.gz",
-      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\compressed\\ykv1td1bt3-pt69hwcnrz.gz",
+      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\compressed\\ykv1td1bt3-397srw7glj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -86873,7 +86873,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 19:21:15 GMT"
+          "Value": "Wed, 09 Apr 2025 01:47:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -86897,12 +86897,12 @@
     },
     {
       "Route": "service-worker-assets.js",
-      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\compressed\\9heaprx8o8-8pa7ttbpu6.gz",
+      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\compressed\\9heaprx8o8-c0dntxhcnz.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000076283469"
+          "Quality": "0.000076312576"
         }
       ],
       "ResponseHeaders": [
@@ -86912,15 +86912,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13108"
+          "Value": "13103"
         },
         {
           "Name": "ETag",
-          "Value": "\"aHa5saO4Nw3GD2qWueMLZ9an4C7jT61Aq2r41ZMGX+c=\""
+          "Value": "\"FOGZfb7uwOjy1zuTvcZHM1I1BsFBgX0d3pb2HEzPYTk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 19:21:15 GMT"
+          "Value": "Wed, 09 Apr 2025 01:47:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -86940,13 +86940,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"7PKASGm9BSRd0Q4yRcfYtnns8FMzHVGAgeIuEGklfVY=\""
+          "Value": "W/\"ZO1aljZqsoSR0TJaITn5ZpY5TMCpDaee2Eh6tMJJ7hc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7PKASGm9BSRd0Q4yRcfYtnns8FMzHVGAgeIuEGklfVY="
+          "Value": "sha256-ZO1aljZqsoSR0TJaITn5ZpY5TMCpDaee2Eh6tMJJ7hc="
         }
       ]
     },
@@ -86969,11 +86969,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7PKASGm9BSRd0Q4yRcfYtnns8FMzHVGAgeIuEGklfVY=\""
+          "Value": "\"ZO1aljZqsoSR0TJaITn5ZpY5TMCpDaee2Eh6tMJJ7hc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 19:21:15 GMT"
+          "Value": "Wed, 09 Apr 2025 01:47:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -86983,13 +86983,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7PKASGm9BSRd0Q4yRcfYtnns8FMzHVGAgeIuEGklfVY="
+          "Value": "sha256-ZO1aljZqsoSR0TJaITn5ZpY5TMCpDaee2Eh6tMJJ7hc="
         }
       ]
     },
     {
       "Route": "service-worker-assets.js.gz",
-      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\compressed\\9heaprx8o8-8pa7ttbpu6.gz",
+      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Desktop\\Api\\MS-Collection_Web\\obj\\Debug\\net9.0\\compressed\\9heaprx8o8-c0dntxhcnz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -86998,7 +86998,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13108"
+          "Value": "13103"
         },
         {
           "Name": "Content-Type",
@@ -87006,11 +87006,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"aHa5saO4Nw3GD2qWueMLZ9an4C7jT61Aq2r41ZMGX+c=\""
+          "Value": "\"FOGZfb7uwOjy1zuTvcZHM1I1BsFBgX0d3pb2HEzPYTk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 19:21:15 GMT"
+          "Value": "Wed, 09 Apr 2025 01:47:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -87028,7 +87028,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-aHa5saO4Nw3GD2qWueMLZ9an4C7jT61Aq2r41ZMGX+c="
+          "Value": "sha256-FOGZfb7uwOjy1zuTvcZHM1I1BsFBgX0d3pb2HEzPYTk="
         }
       ]
     }

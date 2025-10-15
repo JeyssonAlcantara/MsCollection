@@ -66,4 +66,12 @@
         <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="9.0.0" />
     </ItemGroup>
 
+    <ItemGroup>
+      <MauiImage Include="wwwroot\images\logo.png" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Include="wwwroot\images\logo.png" />
+    </ItemGroup>
+
 </Project>

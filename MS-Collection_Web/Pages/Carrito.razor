@@ -1,149 +1,203 @@
 ﻿@page "/Carrito"
 @inject NavigationManager NavigationManager
 
-<PageTitle>Carrito de Compras</PageTitle>
+<PageTitle>Productos Agregados</PageTitle>
 
 <style>
-    /* Contenedor principal del carrito */
-    .cart-container {
-        max-width: 80%;
+    .carrito-page {
+        max-width: 1100px;
         margin: 2rem auto;
-        background-color: #f8f6f5;
         padding: 2rem;
-        border: 1px solid #e9cfc5;
-        border-radius: 10px;
-        box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        background-color: #f9f6f4;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     }
 
-    .cart-header {
-        color: #3a2e2c;
-        font-weight: bold;
-        font-size: 1.8rem;
-        margin-bottom: 1.5rem;
-        text-align: center;
-    }
+        .carrito-page h2 {
+            text-align: center;
+            color: #3a2e2c;
+            font-size: 2rem;
+            margin-bottom: 2rem;
+        }
 
-    .cart-item {
-        border-bottom: 1px solid #e9cfc5;
-        padding: 1rem 0;
+    .carrito-layout {
         display: flex;
-        justify-content: space-between;
+        gap: 2rem;
+        flex-wrap: wrap;
+    }
+
+    .lista-productos {
+        flex: 2;
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+    }
+
+    .producto-card {
+        display: flex;
         align-items: center;
+        justify-content: space-between;
+        background-color: white;
+        padding: 1rem;
+        border-radius: 15px;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
     }
 
-        .cart-item:last-child {
-            border-bottom: none;
-        }
-
-    .item-info {
-        color: #3a2e2c;
+    .producto-info {
+        display: flex;
+        align-items: center;
+        gap: 1rem;
     }
 
-        .item-info h5 {
-            margin: 0;
-            font-weight: bold;
+        .producto-info img {
+            width: 40px;
+            height: 40px;
+            border-radius: 8px;
+            object-fit: cover;
         }
 
-        .item-info p {
-            margin: 0.25rem 0 0;
-            font-size: 0.95rem;
-        }
-
-    .item-price {
-        color: #c19d87;
+    .producto-info-texto h6 {
+        margin: 0;
         font-weight: bold;
-        margin-right: 1rem;
     }
 
-    .cancel-btn {
-        background-color: transparent;
-        border: 1px solid #c19d87;
-        color: #c19d87;
-        border-radius: 5px;
-        padding: 0.25rem 0.75rem;
+    .producto-info-texto p {
+        margin: 0;
         font-size: 0.9rem;
-        transition: background-color 0.3s, color 0.3s;
     }
 
-        .cancel-btn:hover {
-            background-color: #c19d87;
-            color: #fff;
-        }
-
-    .total-container {
-        text-align: right;
-        font-size: 1.5rem;
-        font-weight: bold;
-        color: #3a2e2c;
-        margin-top: 1.5rem;
-    }
-
-    .payment-btn {
-        background-color: #c19d87;
-        border: none;
+    .producto-precio {
+        background-color: #f0bda7;
         color: white;
-        padding: 0.75rem 1.5rem;
-        font-size: 1.2rem;
-        border-radius: 5px;
-        cursor: pointer;
-        display: block;
-        margin: 2rem auto 0 auto;
-        transition: background-color 0.3s;
+        font-weight: bold;
+        padding: 0.4rem 1rem;
+        border-radius: 50px;
+        font-size: 0.95rem;
     }
 
-        .payment-btn:hover {
-            background-color: #b08a76;
+    .btn-eliminar {
+        background: none;
+        border: none;
+        font-size: 1.4rem;
+        cursor: pointer;
+        color: #3a2e2c;
+    }
+
+    .resumen-total {
+        flex: 1;
+        background: linear-gradient(to bottom, #c59180, #f4ebe7);
+        padding: 2rem;
+        border-radius: 20px;
+        color: white;
+        text-align: center;
+        min-width: 240px;
+    }
+
+        .resumen-total h4 {
+            font-size: 1.2rem;
+            font-weight: 600;
         }
+
+        .resumen-total .total {
+            font-size: 2rem;
+            font-weight: bold;
+            margin: 1rem 0;
+        }
+
+    .btn-pago {
+        background-color: white;
+        color: #c59180;
+        border: none;
+        padding: 0.8rem 1rem;
+        font-weight: bold;
+        border-radius: 25px;
+        font-size: 1rem;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 0.5rem;
+        transition: background 0.3s ease;
+        margin: 0 auto;
+    }
+
+
+        .btn-pago:hover {
+            background-color: #fdf4f1;
+        }
+
+    @@media (max-width: 768px) {
+        .carrito-layout
+
+    {
+        flex-direction: column;
+    }
+
+    .resumen-total {
+        width: 100%;
+    }
+
+    }
 </style>
 
-<div class="cart-container">
-    <div class="cart-header">
-        Artículos de Pedido
-    </div>
+<div class="carrito-page">
+    <h2>Productos Agregados</h2>
 
-    @if (Productos?.Count == 0)
-    {
-        <p class="text-center">No hay productos en el carrito.</p>
-    }
-    else
-    {
-        @foreach (var producto in Productos)
-        {
-            <div class="cart-item">
-                <div class="item-info">
-                    <h5>@producto.Nombre</h5>
-                    <p>Cantidad: @producto.Cantidad</p>
+    <div class="carrito-layout">
+        <!-- Lista de productos -->
+        <div class="lista-productos">
+            @foreach (var producto in Productos)
+            {
+                <div class="producto-card">
+                    <div class="producto-info">
+                        <img src="https://via.placeholder.com/40" alt="producto" />
+                        <div class="producto-info-texto">
+                            <h6>@($"{producto.Cantidad} {producto.Nombre}")</h6>
+                            <p>@producto.Codigo</p>
+                            <p>$@producto.Precio.ToString("N2")</p>
+                        </div>
+                    </div>
+                    <div class="d-flex align-items-center gap-3">
+                        <div class="producto-precio">$@(producto.Total.ToString("N3"))</div>
+                        <button class="btn-eliminar" @onclick="() => CancelarProducto(producto)">
+                            <i class="bi bi-trash-fill"></i>
+                        </button>
+                    </div>
                 </div>
-                <div class="d-flex align-items-center">
-                    <div class="item-price me-3">$@producto.Precio.ToString("F2")</div>
-                    <button class="cancel-btn" @onclick="() => CancelarProducto(producto)">Cancelar</button>
-                </div>
-            </div>
-        }
-    }
+            }
+        </div>
 
-    <div class="total-container">
-        Total: $@Total.ToString("F2")
+        <!-- Total -->
+        <div class="resumen-total">
+            <h4>Total</h4>
+            <div class="total">$@Total.ToString("N3")</div>
+            <button class="btn-pago" @onclick="RealizarPago">
+                <i class="bi bi-bag-check-fill"></i> Proceder al pago
+            </button>
+        </div>
     </div>
-    <button class="payment-btn" @onclick="RealizarPago">Realizar Pago</button>
 </div>
 
 @code {
     public class Producto
     {
         public string Nombre { get; set; }
+        public string Codigo { get; set; }
         public int Cantidad { get; set; }
         public decimal Precio { get; set; }
+        public decimal Total => Precio * Cantidad;
     }
 
-    // Lista de productos en el carrito (puedes reemplazarla por datos reales)
     private List<Producto> Productos = new List<Producto>
     {
-        new Producto { Nombre = "Argolla de Plata", Cantidad = 1, Precio = 35.00m },
-        new Producto { Nombre = "Pulsera de Oro", Cantidad = 2, Precio = 45.00m }
+        new Producto { Nombre = "Reloj QyQ", Codigo = "85AP895325", Cantidad = 1, Precio = 25.759m },
+        new Producto { Nombre = "Argolla de plata", Codigo = "85AP895325", Cantidad = 1, Precio = 33.759m },
+        new Producto { Nombre = "Anillo de plata", Codigo = "85AP895325", Cantidad = 3, Precio = 100.759m },
+        new Producto { Nombre = "Pulsera de plata", Codigo = "85AP895325", Cantidad = 2, Precio = 20.759m },
+        new Producto { Nombre = "Arete de plata", Codigo = "85AP895325", Cantidad = 2, Precio = 25.759m },
+        new Producto { Nombre = "Juego de plata", Codigo = "85AP895325", Cantidad = 1, Precio = 10.759m },
     };
 
-    private decimal Total => Productos.Sum(p => p.Precio * p.Cantidad);
+    private decimal Total => Productos.Sum(p => p.Total);
 
     private void CancelarProducto(Producto producto)
     {
@@ -152,8 +206,6 @@
 
     private void RealizarPago()
     {
-        // Aquí implementas la lógica de pago o navegas a la página de pago
-        NavigationManager.NavigateTo("/pago");
+        NavigationManager.NavigateTo("/CrearCuenta");
     }
 }
-
